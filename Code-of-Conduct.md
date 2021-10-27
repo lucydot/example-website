@@ -2,4 +2,4 @@
 Title: Code of Conduct
 ---
 
-# This is the {{Page.Title}}
+# This is the {{page.title}}
