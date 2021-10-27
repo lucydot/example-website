@@ -1,5 +1,5 @@
 ---
-Title: Code of Conduct
+title: Code of Conduct
 ---
 
 # This is the {{page.title}}
